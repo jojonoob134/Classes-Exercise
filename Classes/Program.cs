@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            carClass car1 = new carClass("YAMAHA", "VX1100 WAVERUNNER VX", 2007);
         }
     }
 }
