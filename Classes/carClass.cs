@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    internal class carClass
+    internal class CarClass
     {
-        public carClass(string make, string modle, int year)
+        public CarClass(string make, string modle, int year)
         {
             Console.WriteLine($"This car is the {modle} with the make of {make} and year is {year }");
         }
